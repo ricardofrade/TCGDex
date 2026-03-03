@@ -1,0 +1,7 @@
+int string back_button_content_description 0x0
+int string card_details_title 0x0
+int string error_unknown 0x0
+int string label_hp 0x0
+int string label_illustrator 0x0
+int string label_rarity 0x0
+int string label_types 0x0

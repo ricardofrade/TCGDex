@@ -1,0 +1,9 @@
+<resources>
+    <string name="card_details_title">Details</string>
+    <string name="back_button_content_description">Back</string>
+    <string name="label_hp">HP</string>
+    <string name="label_rarity">Rarity</string>
+    <string name="label_illustrator">Illustrator</string>
+    <string name="label_types">Types</string>
+    <string name="error_unknown">Unknown error</string>
+</resources>

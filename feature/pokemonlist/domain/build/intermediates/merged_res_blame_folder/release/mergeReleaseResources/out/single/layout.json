@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.domain-release-12:/layout/custom_dialog.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.domain-core-1.8.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.domain-release-12:/layout/notification_template_part_chronometer.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.domain-core-1.8.0-5:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.domain-release-12:/layout/notification_template_part_time.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.domain-core-1.8.0-5:/layout/notification_template_part_time.xml"
+    }
+]

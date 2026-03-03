@@ -1,0 +1,8 @@
+com.ricardofrade.tcgdex.feature.pokemondetail.presentation
+string back_button_content_description
+string card_details_title
+string error_unknown
+string label_hp
+string label_illustrator
+string label_rarity
+string label_types

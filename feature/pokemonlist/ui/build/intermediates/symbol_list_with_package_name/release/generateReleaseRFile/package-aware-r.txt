@@ -1,0 +1,3 @@
+com.ricardofrade.tcgdex.feature.pokemonlist.presentation
+string feature_cardlist_title
+string search_placeholder

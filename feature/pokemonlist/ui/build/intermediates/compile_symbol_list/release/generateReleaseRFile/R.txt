@@ -1,0 +1,2 @@
+int string feature_cardlist_title 0x0
+int string search_placeholder 0x0

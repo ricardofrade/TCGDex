@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.ricardofrade.tcgdex.feature.pokemonlist.ui.PokemonListViewModel

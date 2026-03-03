@@ -1,0 +1,16 @@
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-annotation-experimental-1.3.1-0 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/665eaf687277450b75be42a427abc15c/transformed/annotation-experimental-1.3.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-savedstate-1.2.0-1 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/7a7d0fbe17cda4d9581935888731407d/transformed/savedstate-1.2.0/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-lifecycle-viewmodel-2.5.1-2 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/880d485cc5377c53dedefda91f83c75f/transformed/lifecycle-viewmodel-2.5.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-lifecycle-runtime-2.5.1-3 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/a1411e7c3e3236d0508523add057b8bc/transformed/lifecycle-runtime-2.5.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-activity-1.5.1-4 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/ae6de8db8be722b71705d242f2f4db41/transformed/activity-1.5.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-core-1.8.0-5 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/d3e107b81f36312026faa00b3f82639c/transformed/core-1.8.0/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-lifecycle-livedata-core-2.5.1-6 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/e84c549542a744b17060ee92f823d15e/transformed/lifecycle-livedata-core-2.5.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-lifecycle-viewmodel-savedstate-2.5.1-7 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/ed39b190166d338dd248946b8dc01774/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-fragment-1.5.1-8 /Users/ricardofrade/.gradle/caches/9.2.1/transforms/fd396e4a4a3577ab9ab51444a86da063/transformed/fragment-1.5.1/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-pngs-9 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/build/generated/res/pngs/release
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-resValues-10 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/build/generated/res/resValues/release
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-mergeReleaseResources-11 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-mergeReleaseResources-12 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-release-13 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/build/intermediates/merged_res/release/mergeReleaseResources
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-main-14 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/src/main/res
+com.ricardofrade.tcgdex.feature.pokemondetail.domain-release-15 /Users/ricardofrade/Developer/TCGDex/feature/carddetail/domain/src/release/res

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.10.0" type="partial_results">
+    <map id="UnusedResources">
+        <location id="R.string.error_unknown"
+            file="${:feature:carddetail:ui*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="8"
+            column="13"
+            startOffset="336"
+            endLine="8"
+            endColumn="33"
+            endOffset="356"/>
+        <entry
+            name="model"
+            string="string[card_details_title(U),back_button_content_description(U),label_hp(U),label_rarity(U),label_illustrator(U),label_types(U),error_unknown(D)];;;;"/>
+    </map>
+
+</incidents>

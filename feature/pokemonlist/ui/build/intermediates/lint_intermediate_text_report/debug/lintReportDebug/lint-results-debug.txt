@@ -1,0 +1,12 @@
+/Users/ricardofrade/Developer/TCGDex/feature/cardlist/ui/src/main/res/values/strings.xml:3: Warning: Replace "..." with ellipsis character (…, &#8230;) ? [TypographyEllipsis]
+    <string name="search_placeholder">Search Pokémon...</string>
+                                      ~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "TypographyEllipsis":
+   You can replace the string "..." with a dedicated ellipsis character,
+   ellipsis character (u2026, &#8230;). This can help make the text more
+   readable.
+
+   https://en.wikipedia.org/wiki/Ellipsis
+
+0 errors, 1 warning

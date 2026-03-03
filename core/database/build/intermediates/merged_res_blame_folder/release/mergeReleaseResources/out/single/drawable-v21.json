@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.ricardofrade.tcgdex.core.database-release-14:/drawable-v21/notification_action_background.xml",
+        "source": "com.ricardofrade.tcgdex.core.database-core-1.8.0-7:/drawable-v21/notification_action_background.xml"
+    }
+]

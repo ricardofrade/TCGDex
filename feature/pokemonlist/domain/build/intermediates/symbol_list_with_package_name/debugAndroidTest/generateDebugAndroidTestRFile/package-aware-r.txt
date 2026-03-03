@@ -1,0 +1,1 @@
+com.ricardofrade.tcgdex.feature.pokemonlist.domain.test

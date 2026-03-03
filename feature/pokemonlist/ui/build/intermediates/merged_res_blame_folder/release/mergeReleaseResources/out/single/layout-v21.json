@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-release-45:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-core-1.16.0-4:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-release-45:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-core-1.16.0-4:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-release-45:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-core-1.16.0-4:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-release-45:/layout-v21/notification_action.xml",
+        "source": "com.ricardofrade.tcgdex.feature.pokemonlist.presentation.ui-core-1.16.0-4:/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,4 @@
+<resources>
+    <string name="feature_cardlist_title">TCGDex</string>
+    <string name="search_placeholder">Search Pokémon...</string>
+</resources>
